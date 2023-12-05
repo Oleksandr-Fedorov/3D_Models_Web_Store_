@@ -1,0 +1,88 @@
+.view_model{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.view_model>div{
+    width:90%;
+    height: 95%;
+    border: 5px solid #050A30;
+    background-color: rgba(104, 104, 241, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.view_model .content{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.view_model .left_content{
+    width: 60%;
+    height: 100%;
+    padding: 20px;
+}
+
+.view_model .right_content{
+    width: 40%;
+    height: 100%;
+}
+
+.view_model .preview{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.view_model .preview .image{
+    width: 95%;
+    height: 70%;
+}
+
+.view_model .preview .image img{
+    width: 100%;
+    height: 100%;
+}
+
+.view_model .preview .image_bar{
+    height: 25%;
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+}
+
+.view_model .preview .image_bar img{
+    width: 30%;
+    margin: 5px;
+}
+
+.view_model .left_content nav{
+    min-height: 200px;
+}
+
+.view_model h2{
+    margin-top: 20px;
+}
+
+.view_model .right_content{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.view_model .right_content .description{
+    width: 90%;
+    height: 80%;
+    border: 5px solid #050A30;
+}

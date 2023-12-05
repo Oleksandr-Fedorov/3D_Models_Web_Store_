@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "user": "Foceal",
+        "name": "Dragon",
+        "price": 2580,
+        "rate": 4.5,
+        "url": "/images/dragon.jpg", 
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit nibh faucibus urna odio vivamus sed, luctus maecenas fermentum at hac cursus quis torquent bibendum accumsan maximus. Enim per dignissim fringilla finibus lectus vehicula nibh justo, habitasse orci nisl penatibus aenean vitae dolor dui, condimentum quis dictum vulputate blandit fames donec. Fringilla accumsan semper enim ante placerat a varius, nostra integer erat non finibus."
+    },
+
+    {
+        "id": 2,
+        "user": "Foceal",
+        "name": "Dragon",
+        "price": 2580,
+        "rate": 4.5,
+        "url": "/images/dragon.jpg", 
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit et, netus accumsan mattis tempus suspendisse suscipit conubia, ac porta montes tempor nibh viverra interdum. Risus praesent viverra quisque magnis ac leo proin elit eget donec a varius, volutpat ut lorem adipiscing habitasse congue sem eu iaculis velit. Lacinia accumsan magna aptent adipiscing bibendum dictum semper sollicitudin, risus conubia nam nunc commodo enim elit fames, suspendisse inceptos luctus ligula congue proin erat."
+    },
+
+    {
+        "id": 3,
+        "user": "Foceal",
+        "name": "Dragon",
+        "price": 2580,
+        "rate": 4.5,
+        "url": "/images/dragon.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit facilisis fringilla, luctus porttitor hac et libero praesent cubilia laoreet potenti convallis, consequat ante per ut vivamus sociosqu curae mollis. Tincidunt lorem ridiculus senectus facilisi conubia habitant nam tempus lacinia ex, turpis tristique nunc integer eleifend est ornare blandit bibendum praesent, condimentum sit consequat vel dictumst natoque accumsan risus metus. Metus lacinia libero laoreet urna imperdiet ligula diam fermentum facilisis, accumsan ipsum ad nibh praesent finibus parturient dui felis a, dictumst neque magnis fusce mauris at nam nec."
+    },
+
+    {
+        "id": 4,
+        "user": "Foceal",
+        "name": "Dragon",
+        "price": 2580,
+        "rate": 4.5,
+        "url": "/images/dragon.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit enim habitasse nisi, habitant cursus donec nullam egestas montes posuere luctus aptent, imperdiet ut tincidunt vel semper platea curabitur suscipit elementum. Finibus integer ante condimentum ex dis nullam, primis varius interdum lorem tempus bibendum efficitur, pretium phasellus egestas nisl facilisis. Ex parturient tellus pretium condimentum etiam maecenas posuere, efficitur aenean himenaeos lacus penatibus praesent facilisi aptent, taciti litora dolor nulla platea vehicula."
+    },
+
+    {
+        "id": 5,
+        "user": "Foceal",
+        "name": "Dragon",
+        "price": 2580,
+        "rate": 4.5,
+        "url": "/images/dragon.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing, elit eros a accumsan vitae, lacinia imperdiet nulla mollis ultrices. Morbi rutrum ante maecenas tincidunt tellus hendrerit, tortor vulputate nisl mus montes velit nullam, hac inceptos tempor rhoncus class."
+    },
+
+    {
+        "id": 6,
+        "user": "Foceal",
+        "name": "Dragon",
+        "price": 2580,
+        "rate": 4.5,
+        "url": "/images/dragon.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dis tempus, diam cubilia habitant aliquam torquent vulputate convallis quam ullamcorper, phasellus nibh facilisi nisi faucibus lacinia posuere cursus. Pulvinar pretium hac platea finibus ipsum felis dapibus nascetur parturient, tempor aenean in malesuada accumsan nec curae rutrum, lorem habitasse himenaeos nisl lobortis urna commodo nullam."
+    }
+
+]

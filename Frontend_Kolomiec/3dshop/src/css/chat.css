@@ -1,0 +1,14 @@
+*{
+    margin: 0;  
+    padding: 0;
+}
+
+body{
+    background-image: url(castle_back.png);
+    background-size: cover;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}

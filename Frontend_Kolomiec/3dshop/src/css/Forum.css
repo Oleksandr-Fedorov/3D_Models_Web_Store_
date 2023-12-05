@@ -1,0 +1,32 @@
+.forum{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+}
+
+.forum nav h2{
+    font-size: 30px;
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+
+.forum nav{
+    height: 90%;
+    width: 50%;
+    border: 5px solid #050A30;
+    background-color: rgba(104, 104, 241, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.forum li{  
+    width: 50%;
+    margin-top: 15px;
+}
+
+.forum li p{
+    margin-left: 20px;
+}

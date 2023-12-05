@@ -1,0 +1,55 @@
+*{
+    margin: 0;  
+    padding: 0;
+}
+
+body{
+    background-image: url(castle_back.png);
+    background-size: cover;
+}
+
+.filter{
+    display: flex;
+}
+
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.filter{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter> div{
+    background-color: #C0C0C0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-left: 3px solid  rgba(0, 0, 0, 0.8);
+    border-right: 3px solid  rgba(0, 0, 0, 0.8);
+    border-bottom: 3px solid  rgba(0, 0, 0, 0.8);
+}
+
+.filter div div{
+    margin: 10px;
+    font-size: 15px;
+
+}
+
+.filter div div div{
+    display: flex;
+    flex-direction: row;
+}
+
+.filter p, .filter input{
+    margin: 2px;
+}
+
+.filter div p{
+font-size: 15px;
+}

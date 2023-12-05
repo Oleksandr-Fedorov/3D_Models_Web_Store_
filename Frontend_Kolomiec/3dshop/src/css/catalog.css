@@ -1,0 +1,36 @@
+.catalog{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.catalog nav{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content:space-between;
+    width: 70%;
+    min-height: 95%;
+    height: auto;
+    border: 5px solid #050A30;
+    background-color: rgba(104, 104, 241, 0.5);
+    margin: 20px 0 20px 0;
+}
+
+.catalog nav li{
+    margin: 30px 0 30px 50px;
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+}
+
+.catalog nav p{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.catalog nav img{
+    width: 320px;
+    height: 200px;
+}
+
